@@ -18,9 +18,18 @@
   outline: none;
 }
 
+.icons{
+
+display: flex;
+padding-top: 20px;
+padding: 0 50px;
+justify-content: space-between;
+}
+
 .navbar{
   display: flex;
   align-items: center;
+  margin-bottom: 50px;
   margin-top: 0px;
   margin:0px;
   /* margin-left: 10px; */
@@ -41,4 +50,9 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+.block{
+padding-top: 50px;
+padding-left: 200px;
 }
